@@ -1,6 +1,11 @@
+
  body {
-     font-family: 'Arial', sans-serif;
-     color: #bdc8fe;
+     font-family: Arial, sans-serif;
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     background-color: #b0e0e9;
+     /* Set your desired background color #f2f2f2*/
  }
 
  /* header {
